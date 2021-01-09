@@ -7,4 +7,6 @@ LendingClub is a US peer-to-peer lending company, headquartered in San Francisco
 Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), is it possible to build a model that can predict wether or not a borrower will pay back their loan? This way, in the future when LendingClub gets a new potential customer, it can be assessed whether or not they are likely to pay back the loan. 
 
 Tools Used:
-- Exploratory Data Analysis: Pandas, Seaborn, Matplotlib
+- Exploratory Data Analysis and Preprocessing: Pandas, NumPy, Seaborn, Matplotlib
+- Data Normalization: Scikit-Learn
+- Modelling: TensorFlow, Keras
